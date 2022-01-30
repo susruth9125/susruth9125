@@ -10,4 +10,4 @@
  ## Regarding what i like and dislikes while doing this :
        I like Creating repository and adding them to the markdown file.
        While even using different styles as it is m uch similar to Html.
-       I don't have any dislikes because i am gaining new knowledge and intersted to learn new things.
+       I don't have any dislikes because i am gaining new knowledge and intersted to learn new things
